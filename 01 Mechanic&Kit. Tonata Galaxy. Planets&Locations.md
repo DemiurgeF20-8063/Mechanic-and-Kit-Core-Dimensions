@@ -153,10 +153,10 @@ The name comes from Char, a scorched lava hell covered in rivers of magma that b
 Planet contains two location:
 
 ###### GRO
-Grable Research Outpost. This outpost was actively involved in supporting and developing new versions of warbots for Quand Industries, as well as equipment for Grable mercenaries. Vitya arrived to clear the outpost on a mission given to him by Cora Benolux, not Unlas.
+Grable Research Outpost. This outpost was actively involved in supporting and developing new versions of warbots for Quand Industries, as well as equipment for Grable mercenaries. Witya arrived to clear the outpost on a mission given to him by Sara Benolux, not Unlas.
 
 ###### Brainrot Lava.
-The lava fields adjacent to the outpost. Not only are Systematic Destroyers, an invasive species from GSDM, located here, but also the indigenous inhabitants of these fields: Brain-eaters. A swarm of creatures that, for some unknown reason, by eating the brains of other creatures, increase their own brain size without becoming any smarter. It is these brains that one of Grable's scientists asks Vitya to obtain in exchange for several gadgets he will need for his future adventures.
+The lava fields adjacent to the outpost. Not only are Systematic Destroyers, an invasive species from GSDM, located here, but also the indigenous inhabitants of these fields: Brain-eaters. A swarm of creatures that, for some unknown reason, by eating the brains of other creatures, increase their own brain size without becoming any smarter. It is these brains that one of Grable's scientists asks Witya to obtain in exchange for several gadgets he will need for his future adventures.
 
 ---
 
