@@ -107,6 +107,8 @@ From which Witya, through a raider takeover, obtains parts to repair Gerald's sh
 
 ### Minkadia (AfH)
 
+I had a Mandela effect about this planet. I honestly thought there was a mission with it in the first campaign, but when I started rereading the enemy and weapon lists, I realized this planet isn't in the first campaign and... The story written here doesn't exist. Not in this campaign or any other. Now I don't know what to do with it. It'll hang here for now, and then I'll figure out how to rewrite it to fit the events of another campaign.
+
 The name comes from a combination of the words "Mini" and "Kadia." A sovereign, independent, and highly militarized planet. During the AfH campaign, it was attacked by Quand Industries forces with the covert support of Tonata's Rangers, as the government viewed civilizations with a militaristic cult as a threat, even though the civilization inhabiting it was territorial and did not display aggression without provocation. Despite its isolationist policy, the planet appealed to Tonata's Rangers for assistance, and Witya responded. The attack on the planet was repelled.
 
 Planet contains one location:
