@@ -105,7 +105,7 @@ From which Witya, through a raider takeover, obtains parts to repair Gerald's sh
 
 ---
 
-### Minkadia (AfH)
+### Minkadia (???)
 
 I had a Mandela effect about this planet. I honestly thought there was a mission with it in the first campaign, but when I started rereading the enemy and weapon lists, I realized this planet isn't in the first campaign and... The story written here doesn't exist. Not in this campaign or any other. Now I don't know what to do with it. It'll hang here for now, and then I'll figure out how to rewrite it to fit the events of another campaign.
 
