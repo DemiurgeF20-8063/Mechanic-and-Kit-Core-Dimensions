@@ -119,7 +119,7 @@ MDN is main defensive node. It is in the battles for this node that Witya joins 
 ---
 
 ### Watlone (AfH)
-The name of this planet comes from a combination of the words "water" and "lone." This planet is covered in vast oceans.
+The name of this planet comes from a combination of the words "water" and "lone." This planet is covered by vast oceans and has a tropical climate, meaning half the year is hot and sunny, and half is cold and rainy, although the year is not very long due to the planet's rapid orbit.
 
 Planet contains two location:
 
