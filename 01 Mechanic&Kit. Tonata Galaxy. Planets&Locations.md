@@ -68,7 +68,7 @@ This is where the space battle between Witya, in the official, licensed combat s
 
 ---
 
-### Refussi (Before AfH)
+### Refussi (Lore)
 
 The name of this planet comes from the word "refuse"—a term used in environmental standards to describe dense, often mixed industrial waste that is "rejected" by production due to toxicity or the impossibility of recycling.  
 This world is native to the Grable race. However, their compatriot, Quand, created Quand Industries and polluted the planet with industrial waste to the point of being uninhabitable. He then decided to create another planet and arrange for the resettlement of the Grable for a certain price.
@@ -131,7 +131,7 @@ Just an additional location through which Witya walked in search of the Unbinil 
 
 ---
 
-### Harmon Quit (Before AfH)
+### Harmon Quit (Lore)
 
 A planet that is the source of Resonant Charoite in this galaxy. It was blown up by Quand on the advice of Diana Klum, who was attempting to destroy all the paired Charoites in dimension 1A1-66-115 in order to sever the connection with the paired dimension and prevent the Shrimpit Empire from infiltrating this world.
 
@@ -260,6 +260,24 @@ Here, Witya engages in space combat with the Quand Industries fleet. Or rather, 
 
 ###### Snapped Harmony
 A piece of Harmony Quit, embedded in this Frankenstein-like planet, still contains some Resonance Charoite. Witya breaks through here to retrieve one of its fragments as the final component for assembling D.Y.N.O., without which he will be unable to breach the defensive bulkheads of Acatadop Station.
+
+---
+
+# Jaguria (Lore)
+
+An ancient, completely cooled planet, devoid of volcanism and plate movement. Due to the lack of tectonic support, its landscape lacks high, young mountains; instead, the planet is covered in monolithic, endless stone plateaus cut by deep canyons and gigantic, static forests. The climate here is consistently warm, equatorial, without sharp seasonal changes, as the atmosphere perfectly retains the gentle heat of the non-radioactive star. The planet has no locations, as it has never been visited by Witya and no missions have taken place there.
+
+---
+
+# Leakwildia (Lore)
+
+An administrative planet of the Tonata galaxy, housing its government. It is an Ecumenopolis, similar to Ecupoli III or Ceroscan. It is the homeworld of the Ramsunian. The planet has no locations, as it was never visited by Witya and no missions took place there.
+
+---
+
+# Ecupoli I (Lore)
+
+Planet - main office of Gismotrone. Closed to the public, which is why Witya has not visited it and has no locations.
 
 ---
 <small> 
