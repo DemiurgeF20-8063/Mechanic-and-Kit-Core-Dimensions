@@ -133,7 +133,7 @@ Just an additional location through which Witya walked in search of the Unbinil 
 
 ### Harmon Quit (Lore)
 
-A planet that is the source of Resonant Charoite in this galaxy. It was blown up by Quand on the advice of Diana Klum, who was attempting to destroy all the paired Charoites in dimension 1A1-66-115 in order to sever the connection with the paired dimension and prevent the Shrimpit Empire from infiltrating this world.
+A planet that is the source of Resonant Charoite in this galaxy. It was blown up by Quand on the advice of Diana Klum, who was attempting to destroy all the paired Charoites in dimension 1A1-66-115 in order to sever the connection with the paired dimension and prevent the Shrampit Empire from infiltrating this world.
 
 ---
 
