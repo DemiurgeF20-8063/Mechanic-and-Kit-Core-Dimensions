@@ -3,7 +3,7 @@
 
 ***Homeworld***: Nahrulos. Eidolian Galaxy. Dimension 1A1-66-115
 ***Spreading***: Eidolian Galaxy, Dimension 1A1-66-115 (Before second Great War). Gasia, Gahvarian galaxy, unknown dimension (After second Great War)
-***Comments***: Species, to which belongs Diana Clum (CaR, HoS, FaN) and Alaros Suunt (CiS) as well as non-player characters such as Talia Solis, Sofis Axiom. The species' name derives from the word "fuse," which in this case means to merge or fuse. The species is a fusion of plants and animals, as they are furred, warm-blooded, feed on milk, and are viviparous, but obtain almost all their nutrients through photosynthesis. In the Russian localization, the word "Фустик" is similar to "Лунтик" (”Luntik”). The name is partly due to the four ears on their heads. The name of their homeworld is derived from the word "Nahrungslos," meaning "foodless”.
+***Comments***: Species, to which belongs Diana Clum (CaR, HoS, FaN) and Alarein Suunt (EoS) as well as non-player characters such as Talia Solis, Sofis Axiom. The species' name derives from the word "fuse," which in this case means to merge or fuse. The species is a fusion of plants and animals, as they are furred, warm-blooded, feed on milk, and are viviparous, but obtain almost all their nutrients through photosynthesis. In the Russian localization, the word "Фустик" is similar to "Лунтик" (”Luntik”). The name is partly due to the four ears on their heads. The name of their homeworld is derived from the word "Nahrungslos," meaning "foodless”.
 
 ---
 
@@ -19,7 +19,7 @@
 
 ***Homeworld***: First Hybrid was born at Nahrulos, Eidolian Galaxy, Dimension 1A1-66-115 between Selena Kriptos and Asyls Despar.
 ***Spreading***: Gasia, Gahvarian galaxy, unknown dimension. Two representatives at Dimension 1A1-66-115 and one at Dimension 1H7-47-298.
-***Comments***: The hybrid is the main character of the story, Witya Peros (Father Jord Peros (Tufted), mother Selena Kriptos (Fluffy)), also Partys Solis (RiP, RoM, DeF, EvE) (Father Jord Solis (Fluffy), mother Talia Solis (Tufted)), as well as some non-player characters such as Aidex Axiom (Father Asyls Despar (Tufted), mother Selena Kriptos (Fluffy)) and Darla Suunt (Father Alaros Suunt (Tufted), mother - unknown (Fluffy))
+***Comments***: The hybrid is the main character of the story, Witya Peros (Father Jord Peros (Tufted), mother Selena Kriptos (Fluffy)), also Partys Solis (RiP, RoM, DeF, EvE) (Father Jord Solis (Fluffy), mother Talia Solis (Tufted)), as well as some non-player characters such as Aidex Axiom (Father Asyls Despar (Tufted), mother Selena Kriptos (Fluffy)) and Darla Suunt (Father Alarein Suunt (Tufted), mother - unknown (Fluffy))
 
 ---
 
