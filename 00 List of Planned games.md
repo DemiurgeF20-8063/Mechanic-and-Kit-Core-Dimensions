@@ -1,3 +1,6 @@
+# Список запланированных игр
+[[MULTIVERSE DIMENSION UTILIZATION LICENSE (M&K WORLD LICENSE)]]
+
 This article contains a list of planned games and a brief plot summary. A total of 23 are planned: 12 main games (a triplet of quadrologies) and 11 spin-offs with canonical events. Some might say that's a lot. I'll say yes, I know, I understand perfectly well. But this will keep me busy for a while. And maybe someone else will join me later. I didn't prepare this much space for myself alone. Yes, revealing the plots of planned games might not be the best decision, because if a miracle happens, and it comes down to it, a lot of people will know what the games will be about... But miracles have never happened to me before. This list is needed to give the reader a correct timeline so that he does not get confused about which campaign is which, and also, due to the fact that I often use abbreviations instead of the full name, so that anyone can look at this list and see which game this abbreviation refers to.
 Well...
 
@@ -142,19 +145,4 @@ Cypris Axiom continues to study the Nether, and there he stumbles upon an unknow
 But there is a chance to fix all this. After the 23rd game, something will be done to the franchise itself, allowing the community to write and release their own version of the events.
 
 ---
-<small> 
-# Mechanic & Kit — Universe Intellectual Property (IP)
-
-This repository contains the proprietary narrative assets, character designs, 
-chronologies, and multi-tiered cosmographical data for the *Mechanic & Kit* franchise.
-
-## 🛡️ Intellectual Property Notice
-
-**ALL RIGHTS RESERVED.** 
-
-Copyright © 2026 DemiurgeF20.8063. 
-
-No part of this repository—including but not limited to character profiles (Witya, Partys, Alarein Suunt, Dr. Sience), localized galaxy systems (Tonata Galaxy, Siren's Socket Station), plots, timelines, and original concepts—may be reproduced, distributed, mirrored, or transmitted in any form or by any means without the prior written permission of the copyright owner.
-
-This documentation is private and protected under international copyright laws. Any unauthorized commercial or non-commercial derivative use will face immediate legal action. 
-</small>
+CC-BY-SA 4.0 + Custom IP Restrictions
