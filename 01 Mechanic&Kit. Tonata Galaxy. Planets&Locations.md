@@ -1,4 +1,6 @@
-## Planets&Locations
+# Planets&Locations
+[[MULTIVERSE DIMENSION UTILIZATION LICENSE (M&K WORLD LICENSE)]]
+
 ### Meltin (AfH, HoS)
 
 The name comes from the word Melt. An inconspicuous planet, home to the underprivileged. One-year-old newborn Witya was abandoned on Kownool Plateau. As Crutch's adviced. His father, Scad Peros, missed Encapsulation and tried to hide Witya from Antichent. At the end of the AfH campaign, the planet was on the brink of destruction. Quand wanted to blow it up with an Acatadop (Autonomous Collector After The Absolute Destruction Of Planet) and place the Wealth Refussi in its orbit, but Witya and Tonata's Rangers prevented him. Following the events of the Hopes of Soulless campaign, the planet was attacked by the ---No Name Yet--- race. Tonata's regular army was unable to withstand the onslaught, resulting in the planet being blown up along with the enemy forces, marking a turning point.
@@ -280,19 +282,4 @@ An administrative planet of the Tonata galaxy, housing its government. It is an 
 Planet - main office of Gismotrone. Closed to the public, which is why Witya has not visited it and has no locations.
 
 ---
-<small> 
-# Mechanic & Kit — Universe Intellectual Property (IP)
-
-This repository contains the proprietary narrative assets, character designs, 
-chronologies, and multi-tiered cosmographical data for the *Mechanic & Kit* franchise.
-
-## 🛡️ Intellectual Property Notice
-
-**ALL RIGHTS RESERVED.** 
-
-Copyright © 2026 DemiurgeF20.8063. 
-
-No part of this repository—including but not limited to character profiles (Witya, Partys, Alarein Suunt, Dr. Sience), localized galaxy systems (Tonata Galaxy, Siren's Socket Station), plots, timelines, and original concepts—may be reproduced, distributed, mirrored, or transmitted in any form or by any means without the prior written permission of the copyright owner.
-
-This documentation is private and protected under international copyright laws. Any unauthorized commercial or non-commercial derivative use will face immediate legal action. 
-</small>
+CC-BY-SA 4.0 + Custom IP Restrictions
