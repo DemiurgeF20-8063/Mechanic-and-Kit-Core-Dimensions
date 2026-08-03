@@ -1,3 +1,5 @@
+# Виды. Краткое описание.
+[[MULTIVERSE DIMENSION UTILIZATION LICENSE (M&K WORLD LICENSE)]]
 
 # Фустики Кисточки.
 
@@ -79,20 +81,4 @@
 ***Комментарий***: Слово происходит от английского слова “time” - время. Да, те самые Тимзеры, которые уничтожили первую итерацию Живого Мира в результате хаотичного перемещения во времени, образовались снова, но они получили шрам ввиде редкого заикания. Невысокие существа с упитанным телосложением, бордовой кожей и большим количеством морщин. На голове два рогоподобных отростка, загибающихся к подбородку. Родная планета вида неизвестна, поскольку Тимзеры, как и в первой итерации, были одним из первых разумных видов, вышедших в космическую эру. На данный момент расселились по очень многим планетам, в том числе наводнили Кероскан после пандемии. Вид не отличается технологическим превосходством над остальными, не смотря на свою древность.
 
 ---
-
-<small> 
-# Mechanic & Kit — Universe Intellectual Property (IP)
-
-This repository contains the proprietary narrative assets, character designs, 
-chronologies, and multi-tiered cosmographical data for the *Mechanic & Kit* franchise.
-
-## 🛡️ Intellectual Property Notice
-
-**ALL RIGHTS RESERVED.** 
-
-Copyright © 2026 DemiurgeF20.8063. 
-
-No part of this repository—including but not limited to character profiles (Witya, Partys, Alarein Suunt, Dr. Sience), localized galaxy systems (Tonata Galaxy, Siren's Socket Station), plots, timelines, and original concepts—may be reproduced, distributed, mirrored, or transmitted in any form or by any means without the prior written permission of the copyright owner.
-
-This documentation is private and protected under international copyright laws. Any unauthorized commercial or non-commercial derivative use will face immediate legal action. 
-</small>
+CC-BY-SA 4.0 + Custom IP Restrictions
