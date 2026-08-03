@@ -1,3 +1,5 @@
+# Short description of species
+[[MULTIVERSE DIMENSION UTILIZATION LICENSE (M&K WORLD LICENSE)]]
 
 # Fustix Tufted.
 
@@ -79,20 +81,4 @@ This is the species to which **Chairman Quand** belongs—the secondary antagoni
 ***Comments***: The word comes from the English word "time." Yes, the very same Timzers who destroyed the first iteration of the Living World as a result of chaotic time travel have re-formed, but have acquired a scar in the form of a rare stutter. They are short creatures with a plump build, maroon skin, and a large number of wrinkles. Their heads have two horn-like appendages curving toward their chins. The species' home planet is unknown, as the Timzers, like the first iteration, were among the first intelligent species to enter the space age. They have now spread across many planets, including infesting Ceroscan after the pandemic. Despite their antiquity, the species is not distinguished by its technological superiority over others.
 
 ---
-
-<small> 
-# Mechanic & Kit — Universe Intellectual Property (IP)
-
-This repository contains the proprietary narrative assets, character designs, 
-chronologies, and multi-tiered cosmographical data for the *Mechanic & Kit* franchise.
-
-## 🛡️ Intellectual Property Notice
-
-**ALL RIGHTS RESERVED.** 
-
-Copyright © 2026 DemiurgeF20.8063. 
-
-No part of this repository—including but not limited to character profiles (Witya, Partys, Alarein Suunt, Dr. Sience), localized galaxy systems (Tonata Galaxy, Siren's Socket Station), plots, timelines, and original concepts—may be reproduced, distributed, mirrored, or transmitted in any form or by any means without the prior written permission of the copyright owner.
-
-This documentation is private and protected under international copyright laws. Any unauthorized commercial or non-commercial derivative use will face immediate legal action. 
-</small>
+CC-BY-SA 4.0 + Custom IP Restrictions
