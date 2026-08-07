@@ -39,5 +39,10 @@ You are fully permitted to create your own commercial or non-commercial games, l
    - 💼 Legal Status & Revenue Share (Rev-Share): This is a collaborative, post-release split contract. Co-authors explicitly agree to work on a Revenue Share basis. You will receive a legally defined percentage (%) of the game's net revenue (defined as total revenue minus the budget reserved for the subsequent game's development). No upfront payments or budgets are guaranteed prior to the game's release.
    - 📧 Contact Protocol: To pitch your ideas, join the core writing team, or discuss a formal contract, you must contact the Author directly through the official GitHub profile communication channels.
 
-
 8. ⚙️ MATERIAL SHARING REQUIREMENT (SA): You may freely utilize the open technical features (Bolt Gyrate logic, oil sheen shaders, vacuum physics), but your modifications to these specific systems must remain open to the community under the same ShareAlike conditions.
+
+9. ⚛️ THE NON-RADIOACTIVE PHYSICS MANDATE (STRICT ENVIRONMENTAL LAW):
+   Any created dimension or third-party content must strictly adhere to the universal physical laws established by the Chords and the NSIR supercomputer. 
+   - 🚫 Absolute Prohibition of Radiation: The concept of radioactive atomic decay does not exist within the multiverse. Atoms must possess absolute structural stability; radioactive isotopes and nuclear fallout are fundamentally impossible by design.
+   - 📖 Mandatory Lore & Physics Alignment: External developers and co-authors are strongly required to thoroughly study and maintain the established custom physical rules of the M&K universe before drafting any mechanics or environment layouts. 
+
