@@ -98,7 +98,7 @@ Witya arrives at the ---as yet unnamed--- combat complex and participates in are
 
 # 08-09 War in Parallelism (WiP) (Spin-off).
 
-***Plot:*** Chronologically, the game takes place during the events of NoA and EoS, after the Clone departs in what is supposed to be the Fustix dimension, and Diana goes after him. This dimension turns out to be a trap from which there is no easy escape. This dimension ends up being captured ---no name yet--- and finding a way back out of it turns out to be no easy task. They eventually manage to open a rift to their home dimension, but the barrier there weakens, and it is at this very spot that two criminals will later open their own rift to this dimension, initiating a chaotic and widespread rift-opening campaign of FaP.
+***Plot:*** Chronologically, the game takes place during the events of NoA and EoS, after the Clone departs in what is supposed to be the Fustix dimension, and Diana goes after him. This dimension 2X9-36-918 turns out to be a trap from which there is no easy escape. This dimension ends up being captured by Nether and finding a way back out of it turns out to be no easy task. They eventually manage to open a rift to their home dimension, but the barrier there weakens, and it is at this very spot that two criminals will later open their own rift to this dimension, initiating a chaotic and widespread rift-opening campaign of FaP.
 
 ---
 
