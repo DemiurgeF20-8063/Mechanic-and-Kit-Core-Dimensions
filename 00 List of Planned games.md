@@ -110,7 +110,7 @@ Witya arrives at the ---as yet unnamed--- combat complex and participates in are
 
 # 09 - 10 Mother and Daughter (MaD) (Spin-off)
 
-***Plot:*** The story of Apocrys Axiom's long journey of redemption for the main characters and her mother, Selena Kriptos, who also acknowledges her share of guilt for abandoning her and her father, Harb Despar, upon learning of the existence of Scad Peros, a spatial duplicate of Jord Solis. The game is planned for VR and will take place in dimension 2G4-17-055. Apocris takes contracts to hunt Fishbeasts, fights off a pirate attack on the station, visits several other planets, and at the end, Diana and Clone appear, dressed as mysterious thieves, along with Crunch, and inform Apocrys and Selena of a very serious matter.
+***Plot:*** The story of Apocrys Axiom's long journey of redemption for the main characters and her mother, Selena Kriptos, who also acknowledges her share of guilt for abandoning her and her father, Harb Despar, upon learning of the existence of Scad Peros, a dimensional duplicate of Jord Solis. The game is planned for VR and will take place in dimension 2G4-17-055. Apocrys takes contracts to hunt Fishbeasts, fights off a pirate attack on the station, visits several other planets, and at the end, Diana and Clone appear, dressed as mysterious thieves, along with Crunch, and inform Apocrys and Selena of a very serious matter.
 
 ---
 
