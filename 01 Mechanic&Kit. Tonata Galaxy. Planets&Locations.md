@@ -1,4 +1,4 @@
-# Planets&Locations
+# Tonata Galaxy. Planets&Locations
 [[MULTIVERSE DIMENSION UTILIZATION LICENSE (M&K WORLD LICENSE)]]
 
 ### Meltin (AfH, HoS)
@@ -17,21 +17,27 @@ The planet was to be destroyed to free up orbit for Wealth Refussi, a self-built
 
 ### Ceroscan (AfH)
 
-The planet's name comes from a combination of the words "hero" and "scan." It's also somewhat similar to Coruscant. The home planet of the Ceroscanians, who became extinct 57 years before the events of AfH as a result of a pandemic. It is an ecumenopolis, the cultural capital of the Tonata galaxy.
+The planet's name comes from a combination of the words "hero" and "scan." It's also somewhat similar to Coruscant. The home planet of the Ceroscanians, who became extinct 57 years before the events of AfH as a result of a pandemic. It is an ecumenopolis, the cultural capital of the Tonata galaxy. 
 
-The planet contains four locations.
+The planet contains six locations.
 
 ###### Pretory City.
 The name comes from Pretoria, the administrative capital of South Africa. Despite the planet being an ecumenopolis, the city itself has a separate name.
 
 ###### Pretory Sky.
-The sky above the city where Witya and his homemade aircraft, which turned out to be quite capable, engage in aerial combat with the Quand Industries fleet.
+The sky above the city where Witya and his homemade aircraft, which turned out to be quite capable, engage in aerial combat with the Quand Industries fleet. This is also where part of the chase between Boris and Witya takes place after escaping from prison.
 
 ###### Hall of Rangers.
 The headquarters of the Tonata Rangers before this "superhero" team disbanded and the brand was purchased by the newly formed Tonata regular army. This headquarters hosted all sorts of events, from briefings to interviews, from candidate acceptance to combat training.
 
 ###### Rangers Games.
 A series of rigorous trials designed to select the most worthy candidates for the Tonata Rangers. A beautiful show also showcases the rigorous selection process for the cadets. In reality, these are extremely corrupt games, where the tests are played out in a giveaway manner with pre-arranged candidates who have political, financial or family authority.
+
+###### Pretory Prison.
+This prison is where Prisoner Number 1, and Prisoner Number two - Linuscus Leslie Unlos, and Boris Hartocat are held. This is the location where the NoS campaign begins, when Boris escapes from prison with the help of Witya's Fighter and the Nanomites.
+
+###### Ceroscan Orbit.
+Here, a space battle ensues between the Tonata Rangers fleet, after the brand has been purchased by Sveta Bennux, and the Nanomite fleet that has gone to Boris's aid. It is after this incident that the Tonata government decides to declare war on the Nanomites.
 
 ---
 
