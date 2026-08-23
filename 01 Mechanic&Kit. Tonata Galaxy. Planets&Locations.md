@@ -15,7 +15,7 @@ The planet was to be destroyed to free up orbit for Wealth Refussi, a self-built
 
 ---
 
-### Ceroscan (AfH) (CaR)
+### Ceroscan (AfH, CaR)
 
 The planet's name comes from a combination of the words "hero" and "scan." It's also somewhat similar to Coruscant. The home planet of the Ceroscanians, who became extinct 57 years before the events of AfH as a result of a pandemic. It is an ecumenopolis, the cultural capital of the Tonata galaxy. 
 
