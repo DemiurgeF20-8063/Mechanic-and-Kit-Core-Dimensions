@@ -66,7 +66,7 @@ This is the species to which **Chairman Quand** belongs—the secondary antagoni
 
 ---
 
-# Ramsunian
+# Ramsuns
 
 ***Homeworld***: Leakwildia. Tonata Galaxy.
 ***Spreading***: Leakwildia.
