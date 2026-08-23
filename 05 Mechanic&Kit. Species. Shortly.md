@@ -1,4 +1,5 @@
-# Short description of species
+# Mechanic&Kit. Species. Shortly
+
 [[MULTIVERSE DIMENSION UTILIZATION LICENSE (M&K WORLD LICENSE)]]
 
 # Fustix Tufted.
