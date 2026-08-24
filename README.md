@@ -19,10 +19,10 @@ Any created dimension or third-party content must strictly adhere to the univers
 The geometry of the multiverse is directly tied to its physical and metaphysical stability. Third-party creators must strictly adhere to the established shape constraints:
 - Absolute Prohibition of Hexagons (Hexagon Ban): The use or depiction of hexagonal (six-sided) shapes, patterns, or structures is strictly prohibited across all regular dimensions and sectors (including the Civilian Sector and the Tonata Galaxy). 
 - The Nether Anomaly Exception: The hexagonal geometry is an exclusive, sovereign anatomical property of the Nether dimension. Any unauthorized appearance of a hexagon outside of the Nether is treated as a severe narrative and structural violation that destroys the core geometric premise of the IP.
-- Triangular Component Standard: All mechanical fasteners, hardware, and engineering elements belonging to the core factions must follow the triangular standard (e.g., Witya Peros' specialized triangular-headed bolts).
 
 **🛑 INTELLECTUAL PROPERTY & STORYLINE BLACKLIST (CORE DIMENSIONS):** 
 You are categorically prohibited from using, duplicating, adapting, or creating derivative works based on ANY characters, narrative arcs, and mission scenarios belonging to the Core Dimensions:
+
 - 🌌World of Chords (Suns of Universe)
 - 🌌1А1-66-115
 - 🌌2А1-66-115
@@ -62,6 +62,7 @@ The Author's official GitHub repository is a locked archive reserved exclusively
 
 **⚛️ THE INDEPENDENT OPEN-SOURCE PHYSICS CORE (STANDALONE USE):**
 If a third-party developer is strictly interested in utilizing the custom "Non-Radioactive Physics" framework (the structural stability of heavy elements, absolute absence of nuclear decay and radiation fallout), this specific academic framework is decoupled from the M&K IP constraints under the following conditions:
-- Total Anonymization Mandate: You are strictly required to purge and remove ALL proprietary proper nouns, entities, and lore markers belonging to the core universe, including but not limited to: ISORI (НСИР), Breget (Брегет), Chords, Tonata, and all character names.
-- Geometrical Immunity: The "Hexagon Ban" and "Triangular Component Standard" DO NOT apply to this standalone physics usage. You may freely combine this non-radioactive model with hexagons or any other geometric configurations.
+- Total Anonymization Mandate: You are strictly required to purge and remove ALL proprietary proper nouns, entities, and lore markers belonging to the core universe, including but not limited to: ISORI (НСИР) (НСИР), Breget (Брегет), Chords, Tonata, and all character names.
+- Geometrical Immunity: The "Hexagon Ban" DO NOT apply to this standalone physics usage. You may freely combine this non-radioactive model with hexagons or any other geometric configurations.
 - ShareAlike Requirement (SA): The open technical features of this anonymized physics core remain open to the community under the same ShareAlike conditions. Any modifications or expansions to this physical framework must be shared openly.
+
